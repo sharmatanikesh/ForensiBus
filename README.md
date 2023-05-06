@@ -26,6 +26,6 @@ Push your branch to your forked repository.
 Submit a pull request detailing your changes and their benefits.
 
 ## License
-The ForensiBus app is released under the MIT License. Please review the LICENSE file for more details.
+The ForensiBus app is released under the [Apache License](https://opensource.org/license/apache-1-1/). Please review the LICENSE file for more details.
 
 ## Screenshots
